@@ -1,0 +1,2 @@
+# qualcom-flasher
+qualcom tool
